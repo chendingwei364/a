@@ -36,7 +36,7 @@ const  fs =require("fs-extra");
         {
           tag: "script",
           attrs: {
-            src: "XbsjEarth/XbsjEarth.js",
+            src: "/XbsjEarth/XbsjEarth.js",
           },
           injectTo: "head-prepend",
         },
